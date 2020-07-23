@@ -4,9 +4,9 @@
 ![alt text](https://raw.githubusercontent.com/rekalantar/Covid19-Detector-iOS-Application/master/application_demo.png)
 
 ### Software requirements:
-Xcode
-Cocoapods
-Firebase package
+Xcode/
+Cocoapods/
+Firebase package/
 TensorFlowLite package
 
 ### Instructions:
